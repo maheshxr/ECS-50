@@ -1,0 +1,101 @@
+filename,fold,target,category,esc10,src_file,take
+1-100-A-0.wav,1,0,Asianlongharnbeetle,FALSE,100,A
+1-100-B-0.wav,1,0,Asianlongharnbeetle,FALSE,100,B
+1-100-C-0.wav,1,0,Asianlongharnbeetle,FALSE,100,C
+1-100-D-0.wav,1,0,Asianlongharnbeetle,FALSE,100,D
+1-100-E-0.wav,1,0,Asianlongharnbeetle,FALSE,100,E
+1-100-F-0.wav,1,0,Asianlongharnbeetle,FALSE,100,F
+1-100-G-0.wav,1,0,Asianlongharnbeetle,FALSE,100,G
+1-100-H-0.wav,1,0,Asianlongharnbeetle,FALSE,100,H
+1-100-I-0.wav,1,0,Asianlongharnbeetle,FALSE,100,I
+1-100-J-0.wav,1,0,Asianlongharnbeetle,FALSE,100,J
+1-101-A-1.wav,1,1,Cicada,FALSE,101,A
+1-101-B-1.wav,1,1,Cicada,FALSE,101,B
+1-101-C-1.wav,1,1,Cicada,FALSE,101,C
+1-101-D-1.wav,1,1,Cicada,FALSE,101,D
+1-101-E-1.wav,1,1,Cicada,FALSE,101,E
+1-101-F-1.wav,1,1,Cicada,FALSE,101,F
+1-101-G-1.wav,1,1,Cicada,FALSE,101,G
+1-101-H-1.wav,1,1,Cicada,FALSE,101,H
+1-101-I-1.wav,1,1,Cicada,FALSE,101,I
+1-101-J-1.wav,1,1,Cicada,FALSE,101,J
+2-102-A-2 wav,2,2,Cicada2,FALSE,102,A
+2-102-B-2.wav,2,2,Cicada2,FALSE,102,B
+2-102-C-2.wav,2,2,Cicada2,FALSE,102,C
+2-102-D-2.wav,2,2,Cicada2,FALSE,102,D
+2-102-E-2.wav,2,2,Cicada2,FALSE,102,E
+2-102-F-2.wav,2,2,Cicada2,FALSE,102,F
+2-102-G-2.wav,2,2,Cicada2,FALSE,102,G
+2-102-H-2.wav,2,2,Cicada2,FALSE,102,H
+2-102-I-2.wav,2,2,Cicada2,FALSE,102,I
+2-102-J-2.wav,2,2,Cicada2,FALSE,102,J
+2-103-A-3.wav,2,3,Locust,FALSE,103,A
+2-103-B-3.wav,2,3,Locust,FALSE,103,B
+2-103-C-3.wav,2,3,Locust,FALSE,103,C
+2-103-D-3.wav,2,3,Locust,FALSE,103,D
+2-103-E-3.wav,2,3,Locust,FALSE,103,E
+2-103-F-3.wav,2,3,Locust,FALSE,103,F
+2-103-G-3.wav,2,3,Locust,FALSE,103,G
+2-103-H-3.wav,2,3,Locust,FALSE,103,H
+2-103-I-3.wav,2,3,Locust,FALSE,103,I
+2-103-J-3.wav,2,3,Locust,FALSE,103,J
+3-104-A-4.wav,3,4,Rootborer,FALSE,104,A
+3-104-B-4.wav,3,4,Rootborer,FALSE,104,B
+3-104-C-4.wav,3,4,Rootborer,FALSE,104,C
+3-104-D-4.wav,3,4,Rootborer,FALSE,104,D
+3-104-E-4.wav,3,4,Rootborer,FALSE,104,E
+3-104-F-4.wav,3,4,Rootborer,FALSE,104,F
+3-104-G-4.wav,3,4,Rootborer,FALSE,104,G
+3-104-H-4.wav,3,4,Rootborer,FALSE,104,H
+3-104-I-4.wav,3,4,Rootborer,FALSE,104,I
+3-104-J-4.wav,3,4,Rootborer,FALSE,104,J
+3-105-A-5.wav,3,5,Stemborer,FALSE,105,A
+3-105-B-5.wav,3,5,Stemborer,FALSE,105,B
+3-105-C-5.wav,3,5,Stemborer,FALSE,105,C
+3-105-D-5.wav,3,5,Stemborer,FALSE,105,D
+3-105-E-5.wav,3,5,Stemborer,FALSE,105,E
+3-105-F-5.wav,3,5,Stemborer,FALSE,105,F
+3-105-G-5.wav,3,5,Stemborer,FALSE,105,G
+3-105-H-5.wav,3,5,Stemborer,FALSE,105,H
+3-105-I-5.wav,3,5,Stemborer,FALSE,105,I
+3-105-J-5.wav,3,5,Stemborer,FALSE,105,J
+4-106-A-6.wav,4,6,Weevil,FALSE,106,A
+4-106-B-6.wav,4,6,Weevil,FALSE,106,B
+4-106-C-6.wav,4,6,Weevil,FALSE,106,C
+4-106-D-6.wav,4,6,Weevil,FALSE,106,D
+4-106-E-6.wav,4,6,Weevil,FALSE,106,E
+4-106-F-6.wav,4,6,Weevil,FALSE,106,F
+4-106-G-6.wav,4,6,Weevil,FALSE,106,G
+4-106-H-6.wav,4,6,Weevil,FALSE,106,H
+4-106-I-6.wav,4,6,Weevil,FALSE,106,I
+4-106-J-6.wav,4,6,Weevil,FALSE,106,J
+4-107-A-7.wav,4,7,Grasshopper,FALSE,107,A
+4-107-B-7.wav,4,7,Grasshopper,FALSE,107,B
+4-107-C-7.wav,4,7,Grasshopper,FALSE,107,C
+4-107-D-7.wav,4,7,Grasshopper,FALSE,107,D
+4-107-E-7.wav,4,7,Grasshopper,FALSE,107,E
+4-107-F-7.wav,4,7,Grasshopper,FALSE,107,F
+4-107-G-7.wav,4,7,Grasshopper,FALSE,107,G
+4-107-H-7.wav,4,7,Grasshopper,FALSE,107,H
+4-107-I-7.wav,4,7,Grasshopper,FALSE,107,I
+4-107-J-7.wav,4,7,Grasshopper,FALSE,107,J
+5-108-A-8.wav,5,8,Carpenter- bee,FALSE,108,A
+5-108-B-8.wav,5,8,Carpenter- bee,FALSE,108,B
+5-108-C-8.wav,5,8,Carpenter- bee,FALSE,108,C
+5-108-D-8.wav,5,8,Carpenter- bee,FALSE,108,D
+5-108-E-8.wav,5,8,Carpenter- bee,FALSE,108,E
+5-108-F-8.wav,5,8,Carpenter- bee,FALSE,108,F
+5-108-G-8.wav,5,8,Carpenter- bee,FALSE,108,G
+5-108-H-8.wav,5,8,Carpenter- bee,FALSE,108,H
+5-108-I-8.wav,5,8,Carpenter- bee,FALSE,108,I
+4-108-J-8.wav,5,8,Carpenter- bee,FALSE,108,J
+5-109-A-9.wav,5,9,Crickets,FALSE,109,A
+5-109-B-9.wav,5,9,Crickets,FALSE,109,B
+5-109-C-9.wav,5,9,Crickets,FALSE,109,C
+5-109-D-9.wav,5,9,Crickets,FALSE,109,D
+5-109-E-9.wav,5,9,Crickets,FALSE,109,E
+5-109-F-9.wav,5,9,Crickets,FALSE,109,F
+5-109-G-9.wav,5,9,Crickets,FALSE,109,G
+5-109-H-9.wav,5,9,Crickets,FALSE,109,H
+5-109-I-9.wav,5,9,Crickets,FALSE,109,I
+5-109-J-9.wav,5,9,Crickets,FALSE,109,J
